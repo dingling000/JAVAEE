@@ -6,14 +6,11 @@ public class Student {
     private int score;
 
     @InitMethod
-    public void setScore(int s)
-    {
+    public void setScore(int s) throws IllegalArgumentException {
         if (s > 0) {
             this.score = s;
             System.out.println(score);
-        } else {
-            throw new IllegalArgumentException();
-        }
+        } else throw new IllegalArgumentException();
     }
 
     public void getScore(){
