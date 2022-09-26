@@ -5,8 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f530c25d-4b81-4e5d-a512-a186a230c9ba" name="Changes" comment="“第二周作业”">
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week3_homework/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week3_homework/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week3_homework/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week3_homework/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week3_homework/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week3_homework/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week3_homework/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week3_homework/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week3_homework/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week3_homework/src/main/java/week3/BeanDefinition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week3_homework/src/main/java/week3/BeanException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week3_homework/src/main/java/week3/MiniApplicationContext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week3_homework/src/main/java/week3/MyApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week3_homework/src/main/java/week3/SetterDI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week3_homework/src/main/java/week3/TestClass/StudentDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week3_homework/src/main/java/week3/TestClass/StudentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week3_homework/src/main/resources/ApplictionContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week3_homework/src/test/java/MiniApplicationContextTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/week2/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/week2/Student.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,6 +127,9 @@
       <workItem from="1663397190974" duration="7772000" />
       <workItem from="1663549226308" duration="19000" />
       <workItem from="1663549370462" duration="1507000" />
+      <workItem from="1663666184732" duration="1828000" />
+      <workItem from="1664157686659" duration="619000" />
+      <workItem from="1664187948075" duration="2878000" />
     </task>
     <task id="LOCAL-00001" summary="“第二周作业”">
       <created>1663404544082</created>
