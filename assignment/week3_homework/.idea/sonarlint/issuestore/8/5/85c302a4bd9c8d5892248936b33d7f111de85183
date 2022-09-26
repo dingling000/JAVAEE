@@ -1,0 +1,25 @@
+
+i
+java:S1104"NMake id a static final constant or non-public and provide accessors if needed.(Â¥Šˆøÿÿÿÿ
+k
+java:S1104"UMake beanClass a static final constant or non-public and provide accessors if needed.(†åÅô
+f
+java:S1104"PMake name a static final constant or non-public and provide accessors if needed.( şÍ¾
+e
+java:S1104"OMake ref a static final constant or non-public and provide accessors if needed.(×ï¦À
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(âáé«
+K
+java:S1128"0Remove this unused import 'org.dom4j.Attribute'.(¤ó¿»ıÿÿÿÿ
+E
+java:S1128"/Remove this unused import 'org.dom4j.Document'.(ĞïÇ½
+S
+java:S1128"8Remove this unused import 'org.dom4j.DocumentException'.(ÖÌê øÿÿÿÿ
+I
+java:S1128".Remove this unused import 'org.dom4j.Element'.(”¹Îûÿÿÿÿ
+I
+java:S1128"3Remove this unused import 'org.dom4j.io.SAXReader'.(íüÅò
+E
+java:S1128
+"/Remove this unused import 'java.util.Iterator'.(¥ÍòÕ
+F
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ

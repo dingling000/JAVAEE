@@ -1,0 +1,33 @@
+
+`	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+`	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+`	java:S112<"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+`	java:S112N"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+`	java:S112P"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+`	java:S112R"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+`	java:S112T"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+g	java:S112V"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8÷Á­Î·0
+E
+java:S3740G"/Provide the parametrized type for this generic.(‰ì‰ÿ
+f	java:S117G"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰ì‰ÿ
+j
+java:S1104 "OMake cla a static final constant or non-public and provide accessors if needed.(µ¸Ûàøÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(âáé«
+_
+java:S2147"DCombine this catch with the one at line 25, which has the same body.(ÿ‰À¾üÿÿÿÿ
+h
+java:S3776!"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(îÜ’Ş
+‰
+java:S1130!"lRemove the declaration of thrown exception 'week3.BeanException', as it cannot be thrown from method's body.(îÜ’Ş8ë£¶Î·0
+Z
+java:S2147O"DCombine this catch with the one at line 77, which has the same body.(åşáÿ
+_
+java:S2147Q"DCombine this catch with the one at line 77, which has the same body.(¼¯•¶ùÿÿÿÿ
+Z
+java:S2147S"DCombine this catch with the one at line 77, which has the same body.(¯áè
+Z
+java:S2147U"DCombine this catch with the one at line 77, which has the same body.(Å¡ß
+I
+java:S1128".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ
+E
+java:S1128"*Remove this unused import 'java.util.Map'.(¼è½Òşÿÿÿÿ

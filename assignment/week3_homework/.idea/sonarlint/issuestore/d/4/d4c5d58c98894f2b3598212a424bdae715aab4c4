@@ -1,0 +1,15 @@
+
+`	java:S1129"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+`	java:S112J"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+`	java:S112L"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+d
+java:S1192/"IDefine a constant instead of duplicating this literal "property" 3 times.(æùıÿÿÿÿ
+v
+java:S1488G"[Immediately return this expression instead of assigning it to the temporary variable "stu".(ä°’üÿÿÿÿ
+l
+java:S1104"QMake beans a static final constant or non-public and provide accessors if needed.(»«óúÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(âáé«
+Z
+java:S2147K"DCombine this catch with the one at line 73, which has the same body.(åşáÿ
+Z
+java:S2147O"DCombine this catch with the one at line 77, which has the same body.(Å¡ß
