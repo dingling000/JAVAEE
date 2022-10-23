@@ -1,0 +1,36 @@
+
+`	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+`	java:S112""FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+`	java:S112$"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+`	java:S112&"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+`	java:S112("FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+`	java:S112*"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+`	java:S112="FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+`	java:S112?"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+`	java:S112A"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+`	java:S112C"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+J
+java:S37401"/Provide the parametrized type for this generic.(†‹Âäùÿÿÿÿ
+E
+java:S37402"/Provide the parametrized type for this generic.(Ïäı
+v
+java:S1488"[Immediately return this expression instead of assigning it to the temporary variable "stu".(ä°’üÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ĞÖ†ÿÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(Ø¯íğÿÿÿÿÿ
+Z
+java:S2147#"DCombine this catch with the one at line 33, which has the same body.(åşáÿ
+_
+java:S2147%"DCombine this catch with the one at line 33, which has the same body.(¼¯•¶ùÿÿÿÿ
+Z
+java:S2147'"DCombine this catch with the one at line 33, which has the same body.(¯áè
+Z
+java:S2147)"DCombine this catch with the one at line 33, which has the same body.(Å¡ß
+Z
+java:S2147>"DCombine this catch with the one at line 60, which has the same body.(åşáÿ
+Z
+java:S2147@"DCombine this catch with the one at line 60, which has the same body.(¯áè
+Z
+java:S2147B"DCombine this catch with the one at line 60, which has the same body.(Å¡ß
+V	java:S1257"<This block of commented-out lines of code should be removed.(û“Ôûÿÿÿÿ
+W
+java:S1075N"ARefactor your code to get this URI from a customizable parameter.(æ±÷À
