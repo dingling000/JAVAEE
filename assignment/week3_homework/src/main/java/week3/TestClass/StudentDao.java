@@ -12,6 +12,6 @@ public class StudentDao {
     }
 
     public void save(){
-        System.out.println("studentDao保存成功");
+        System.out.println("studentDao保存成功了");
     }
 }
