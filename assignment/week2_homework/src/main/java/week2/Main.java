@@ -70,7 +70,7 @@ public class Main {
 
         return false;
 
-    }//找到使用initMethod注解的方法并调用
+    }//找到使用initMethod注解的方法调用
 
 
     public static void main(String[] args) {

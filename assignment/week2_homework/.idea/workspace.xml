@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f530c25d-4b81-4e5d-a512-a186a230c9ba" name="Changes" comment="“第三周作业”">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/week2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/week2/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,7 +92,6 @@
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.MainTest.testGetMethod" />
-        <item itemvalue="Application.Main" />
         <item itemvalue="JUnit.MainTest.testGetClass" />
         <item itemvalue="JUnit.MainTest.testGetObj" />
       </list>
@@ -114,6 +114,7 @@
       <workItem from="1664157686659" duration="619000" />
       <workItem from="1664187948075" duration="3593000" />
       <workItem from="1664266214587" duration="18000" />
+      <workItem from="1666955897198" duration="15000" />
     </task>
     <task id="LOCAL-00001" summary="“第二周作业”">
       <created>1663404544082</created>
