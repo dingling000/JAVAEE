@@ -5,6 +5,7 @@ import lombok.NoArgsConstructor;
 
 import javax.annotation.sql.DataSourceDefinition;
 import javax.persistence.*;
+import java.util.ArrayList;
 import java.util.List;
 
 @Data
@@ -25,8 +26,8 @@ public class Product {
     float stockQuantity;
     //String description;
 
-    @OneToMany(cascade = CascadeType.ALL)
-    private List<Supplier> suppliers;
+    @ManyToMany(cascade = CascadeType.ALL)
+    private List<Supplier> suppliers=new ArrayList<>();
 
     public Product(String name,float price,float stockQuantity){
         this.name=name;
